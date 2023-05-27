@@ -1,0 +1,15 @@
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\bin\Debug\net6.0\3)Homework_№6.exe
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\bin\Debug\net6.0\3)Homework_№6.deps.json
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\bin\Debug\net6.0\3)Homework_№6.runtimeconfig.json
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\bin\Debug\net6.0\3)Homework_№6.dll
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\bin\Debug\net6.0\3)Homework_№6.pdb
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\obj\Debug\net6.0\3)Homework_№6.csproj.AssemblyReference.cache
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\obj\Debug\net6.0\3)Homework_№6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\obj\Debug\net6.0\3)Homework_№6.AssemblyInfoInputs.cache
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\obj\Debug\net6.0\3)Homework_№6.AssemblyInfo.cs
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\obj\Debug\net6.0\3)Homework_№6.csproj.CoreCompileInputs.cache
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\obj\Debug\net6.0\3)Homework_№6.dll
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\obj\Debug\net6.0\refint\3)Homework_№6.dll
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\obj\Debug\net6.0\3)Homework_№6.pdb
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\obj\Debug\net6.0\3)Homework_№6.genruntimeconfig.cache
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_1\3)Homework_№6\obj\Debug\net6.0\ref\3)Homework_№6.dll

@@ -1,0 +1,15 @@
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\bin\Debug\net6.0\3)Homework_№15.exe
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\bin\Debug\net6.0\3)Homework_№15.deps.json
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\bin\Debug\net6.0\3)Homework_№15.runtimeconfig.json
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\bin\Debug\net6.0\3)Homework_№15.dll
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\bin\Debug\net6.0\3)Homework_№15.pdb
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\obj\Debug\net6.0\3)Homework_№15.csproj.AssemblyReference.cache
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\obj\Debug\net6.0\3)Homework_№15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\obj\Debug\net6.0\3)Homework_№15.AssemblyInfoInputs.cache
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\obj\Debug\net6.0\3)Homework_№15.AssemblyInfo.cs
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\obj\Debug\net6.0\3)Homework_№15.csproj.CoreCompileInputs.cache
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\obj\Debug\net6.0\3)Homework_№15.dll
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\obj\Debug\net6.0\refint\3)Homework_№15.dll
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\obj\Debug\net6.0\3)Homework_№15.pdb
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\obj\Debug\net6.0\3)Homework_№15.genruntimeconfig.cache
+C:\Users\sanja\Desktop\Sanjar Shaketov\Seminar_2\3)Homework_№15\obj\Debug\net6.0\ref\3)Homework_№15.dll
